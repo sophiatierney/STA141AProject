@@ -1,5 +1,4 @@
-# STA141AProject
-UC Davis, Fundamentals of Statistical Data Science Course
+# Data Science Fundamentals - Binary Classification Project
 
 Binary Classification group project using bank marketing dataset (UCI ML Repo)
 
